@@ -1,4 +1,7 @@
 
+function refreshPage(){
+    window.location.reload();
+} 
 
 function getParagraphs(paragraphs, count) {
     const result = [];
