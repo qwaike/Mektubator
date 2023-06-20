@@ -1,0 +1,22 @@
+html{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ffdede
+}
+
+
+button{
+    display:block;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    padding: 40px;
+    height: auto;
+}
